@@ -34,12 +34,12 @@
 
 ---
 
-### 📌 Featured Work
+### 📌 Featured Projects 
 
 - WIP
 
 
 ---
 
-<p align="center"><i>Open to Business Analyst / Risk & Automation opportunities – let's connect.</i></p>
+
 
