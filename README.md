@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kazim Ali 👋</h1>
+<h1 align="center">Hi, I'm Kazim Ali ⋆.°🌙⋆₊˚</h1>    
 <h3 align="center">Business Major → Business Analytics | Risk Management | Automation</h3>
 
 <p align="center">
