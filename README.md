@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kazim Ali ⋆.°🌙⋆₊</h1>    
-<h3 align="center">Business Major → Business Analytics | Risk Management | Automation</h3>
+<h3 align="center">Business Major → Business Analytics - Risk Management - Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kazimalizaidi/" target="_blank">
