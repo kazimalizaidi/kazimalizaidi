@@ -9,7 +9,7 @@
 
 ---
 
-### 🎯 About Me
+### 🎯 Who I am:
 
 - I'm a BBA student, focused on turning coursework into applied business insight
 - Building a foundation in **business analytics, risk management, and process automation**
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Tools & Skills
+### 🛠️ These days I'm focused on:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
