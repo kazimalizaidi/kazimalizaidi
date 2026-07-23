@@ -9,9 +9,9 @@
 
 ---
 
-### 🎯 Who I am:
+### 🎯 A little info about me:
 
-- I'm a BBA student, focused on turning coursework into applied business insight
+- I'm basically a BBA student, focused on turning coursework into applied business insight
 - Building a foundation in **business analytics, risk management, and process automation**
 - Keen interest in **policy, governance, and international relations**
 - Currently exploring **AI adoption trends**, applied statistics, and financial analysis
