@@ -36,7 +36,7 @@
 
 ### 📌 Featured Projects 
 
-- WIP
+- [Apple vs. Samsung Stock Analysis](https://github.com/kazimalizaidi/apple-vs-samsung-stock-analysis) A comprehensive, data-driven financial analysis comparing the stock market performance, volatility, and historical trends of tech giants 
 
 
 ---
