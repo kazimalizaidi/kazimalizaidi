@@ -9,7 +9,7 @@
 
 ---
 
-### 🎯 A little info about me
+### 🎯 A little info about me:
 
 - I'm basically a Business Major student, focused on turning coursework into applied business insight
 - Building a foundation in **business analytics, risk management, and automation**
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ These days I'm focused on
+### 🛠️ These days I'm focused on:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 📌 Featured Projects 
+### 📌 Featured Projects
 
 - [Apple vs. Samsung Stock Analysis](https://github.com/kazimalizaidi/apple-vs-samsung-stock-analysis) A comprehensive, data-driven financial analysis comparing the stock market performance, volatility, and historical trends of tech giants 
 
