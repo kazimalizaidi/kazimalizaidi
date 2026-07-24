@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kazim Ali ⋆.°🌙⋆₊</h1>    
-<h3 align="center">Business Major → Business Analytics - Risk Management - Automation</h3>
+<h3 align="center">Business Analytics - Risk Management - Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kazimalizaidi/" target="_blank">
@@ -11,11 +11,11 @@
 
 ### 🎯 A little info about me:
 
-- I'm basically a BBA student, focused on turning coursework into applied business insight
-- Building a foundation in **business analytics, risk management, and process automation**
+- I'm basically a Business Major student, focused on turning coursework into applied business insight
+- Building a foundation in **business analytics, risk management, and automation**
 - Keen interest in **policy, governance, and international relations**
 - Currently exploring **AI adoption trends**, applied statistics, and financial analysis
-- Actively building a professional presence around business, AI, and industry insight
+- I enjoy football, video games, and a little bit of humour 
 
 ---
 
