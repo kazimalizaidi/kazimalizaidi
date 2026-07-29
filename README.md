@@ -36,7 +36,7 @@
 
 ### 📌 Featured Projects
 
-- [Apple vs. Samsung Stock Analysis](https://github.com/kazimalizaidi/apple-vs-samsung-stock-analysis) A comprehensive Business Analytics project comparing Apple and Samsung stock performance using Python, Exploratory Data Analysis (EDA), time-series analysis, financial metrics, statistical testing, and data visualization.
+- [Apple vs. Samsung Stock Analysis](https://github.com/kazimalizaidi/apple-vs-samsung-stock-analysis) A comprehensive financial analytics project comparing Apple and Samsung stock performance using Python, Exploratory Data Analysis (EDA), time-series analysis, financial metrics, statistical testing, and data visualization.
 
 
 ---
