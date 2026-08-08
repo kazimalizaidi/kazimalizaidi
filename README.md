@@ -11,11 +11,11 @@
 
 ### 🎯 A little info about me:
 
-- I'm basically a Business Major student, focused on turning coursework into applied business insight
-- Building a foundation in **business analytics, risk management, and automation**
-- Keen interest in **policy, governance, and international relations**
-- Currently exploring **AI adoption trends**, applied statistics, and financial analysis
-- I enjoy football, video games, and a little bit of humour 
+- I'm basically a business major grad focused on turning data into actionable insights. 
+- I like building things that work smoothly, focusing on risk management, analytics, & automation.
+- Keen interest in policy, governance, and international relations.
+- Lately, I've been spending my time analyzing AI adoption trends, ML/DL and agentic frameworks.
+- When I'm off the clock, you can find me watching football, playing video games, or cracking a terrible joke lol.
 
 ---
 
