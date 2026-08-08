@@ -12,7 +12,7 @@
 ### 🎯 A little info about me:
 
 - I'm basically a business major grad focused on turning data into actionable insights. 
-- I like building things that work smoothly, focusing on risk management, analytics, & automation.
+- I like building things that add value, focusing on risk management, analytics, & automation.
 - Keen interest in policy, governance, and international relations.
 - Lately, I've been spending my time analyzing AI adoption trends, ML/DL and agentic frameworks.
 - When I'm off the clock, you can find me watching football, playing video games, or cracking a terrible joke lol.
