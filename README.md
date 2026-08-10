@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kazim Ali ⋆.°🌙⋆₊</h1>    
 
----
+
 
 ### 🎯 A little info about me:
 
