@@ -22,7 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/tableau.png" alt="Image Description" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/n8n.png" alt="Image Description" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zapier-dark.png" alt="Image Description" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-power-automate.png" alt="Image Description" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-colab.png" alt="Image Description" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/figma.png" alt="Image Description" width="29" />
 </p>
 
 ---
