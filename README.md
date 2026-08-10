@@ -1,11 +1,4 @@
 <h1 align="center">Hi, I'm Kazim Ali ⋆.°🌙⋆₊</h1>    
-<h3 align="center">Business Analytics - Risk Management - Automation</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kazimalizaidi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -22,14 +15,14 @@
 ### 🛠️ These days I'm focused on:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-3776AB?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business_Analysis-📊-4B0082?style=flat-square" />
-  <img src="https://img.shields.io/badge/Process_Automation-⚙️-4B0082?style=flat-square" />
-  <img src="https://img.shields.io/badge/Risk_Management-⚠️-8B0000?style=flat-square" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/python.png" alt="Image Description" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/mysql.png" alt="Image Description" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-excel.png" alt="Image Description" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" alt="Image Description" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/tableau.png" alt="Image Description" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/n8n.png" alt="Image Description" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zapier-dark.png" alt="Image Description" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-colab.png" alt="Image Description" width="70" />
 </p>
 
 ---
