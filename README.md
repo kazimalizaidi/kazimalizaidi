@@ -34,8 +34,7 @@
 
 - [Apple vs. Samsung Stock Analysis](https://github.com/kazimalizaidi/apple-vs-samsung-stock-analysis) A comprehensive financial analytics project comparing Apple and Samsung stock performance using Python, Exploratory Data Analysis (EDA), time-series analysis, financial metrics, statistical testing, and data visualization.
 - [Automated Financial Fraud & Anomaly Detection Pipeline](https://github.com/kazimalizaidi/fraud-detection-pipeline) An end-to-end MLOps pipeline for real-time fraud detection using XGBoost, SHAP explainability, and a live Streamlit dashboard, fully containerized with Docker and automated via GitHub Actions CI/CD.
-
+- [Monte Carlo Portfolio Risk Simulator](https://github.com/kazimalizaidi/mc-portfolio-sim) A python based quantitative finance engine to simulate 10,000 correlated portfolio paths, estimate VaR/CVaR, and backtest risk models using historical, Student-t, and EWMA volatility methods.
 ---
-
 
 
