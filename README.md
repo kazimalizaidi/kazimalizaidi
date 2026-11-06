@@ -37,6 +37,7 @@
 - [Automated Government Fiscal Budget Liquidity Monitor](https://github.com/kazimalizaidi/gov-fiscal-monitor) An automated fiscal monitoring system for Pakistan that integrates Python, SQL Server, and n8n to analyze government revenue, featuring automated data validation, fiscal early-warning indicators, historical data tracking, and Excel reporting to support data-driven financial risk analysis.
 - [Interactive Financial Analytics Dashboard](https://github.com/kazimalizaidi/financial-analytics-dashboard) A fully formula-driven, interactive SaaS-style financial analytics dashboard built entirely in Microsoft Excel featuring dynamic fiscal-year switching, automated P&L reporting, budgeting gauges, and zero VBA.
 - [Reverse Logistics Circular Economy Network Optimizer](https://github.com/kazimalizaidi/reverse-logistics-optimizer) A reverse logistics decision system: a calibrated ensemble predicts whether each return will be restocked, refurbished or scrapped, a MILP routes returns across a multi-hub network, and a Streamlit Returns Control Tower monitors backlogs, SLA breaches and recaptured value.
+- [Textile Defect YOLOv8 & Cotton VaR Hedging Engine](https://github.com/kazimalizaidi/textile-yolov8-cotton-var) An industrial-grade backend pipeline for the textile sector integrating YOLOv8 computer vision for automated defect detection, an event-driven worker broker for supply chain orchestration, and a SciPy linear-programming engine for quantitative Value-at-Risk (VaR) and Expected Shortfall hedging.
 ---
 
 
